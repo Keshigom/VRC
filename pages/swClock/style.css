@@ -18,15 +18,16 @@
     align-items: center;
 
     
-    font-family: 'monospace','Terminal',monospace;
+    font-family: 'arial',monospace;
     font-weight:bold;
-    font-size: 17vw;
+    font-size: 15vw;
     color:#000000;
     
 }
 
 
 body{
+    background: transparent;
     overflow: hidden;
     marginwidth:"0";
     marginheight:"0";
