@@ -1,5 +1,5 @@
 .clock {
-    width: 100%;
+    width: 90%;
     height: 100vh;
     min-height: 100vh;
 
@@ -8,9 +8,11 @@
     display: flex;
 
     /* 左右中央寄せ */
-    -webkit-box-pack: center;
+    margin: 0 auto;
+
+    /* -webkit-box-pack: center;
     -ms-flex-pack: center;
-    justify-content: center;
+    justify-content: center; */
 
     /* 上下中央寄せ */
     -webkit-box-align: center;
